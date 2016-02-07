@@ -1,15 +1,8 @@
 jQuery(document).ready(function($) {
 	
-	function highlight(){
-		var atags=document.getElementsByTagName("li");
-		for(i in atags){
-			if(atags[i].className=="h_navi"){
-				if(document.location.href==atags[i].firstChild.href){
-					atags[i].className = "active";
-				}
-			}
-		}
-	}
-	highlight();
+	$('ul.c_invest-tabs__caption').on('click', 'li:not(.active)', function() {
+		$(this).addClass('active').siblings().removeClass('active')
+			.closest('div.c_invest-tabs').find('div.c_invest-tabs__content').removeClass('active').eq($(this).index()).addClass('active');
+	});
 
 });

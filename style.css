@@ -1,3 +1,37 @@
+
+
+@font-face {
+	font-family: 'Candara';
+	src: url('fonts/Candara/Candara.eot');
+	src: local('O'), url('fonts/Candara/Candara.woff') format('woff'), 
+	url('fonts/Candara/Candara.ttf') format('truetype'), 
+	url('fonts/Candara/Candara.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+	font-family: 'Calibri';
+	src: url('fonts/Calibri/Calibri.eot');
+	src: local('☺'), url('fonts/Calibri/Calibri.woff') format('woff'), 
+	url('fonts/Calibri/Calibri.ttf') format('truetype'), 
+	url('fonts/Calibri/Calibri.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+@font-face {
+    font-family: "RalewayRegular";
+    src: url("fonts/RalewayRegular/RalewayRegular.eot");
+    src: url("fonts/RalewayRegular/RalewayRegular.eot?#iefix")format("embedded-opentype"),
+    url("fonts/RalewayRegular/RalewayRegular.woff") format("woff"),
+    url("fonts/RalewayRegular/RalewayRegular.ttf") format("truetype");
+    font-style: normal;
+    font-weight: normal;
+}
+
+
+
+
+
 /* Eric Meyer's CSS Reset */
 html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code,
 del, dfn, em, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li,
@@ -64,18 +98,123 @@ body {
 	min-width: 480px;
 	height: 95px;
 	background: rgba(48,48,48,0.7);
+	z-index: 200;
 }
+.h_logo {
+	display: block;
+	width: 200px;
+	height: 77px;
+	background: url('i/logo.png') no-repeat;
+	text-indent: -2989px;
+	float: left;
+	margin: 8px 0 0 18px;
+}
+.h_nav {
+	float: right;
+	text-align: right;
+	font-size: 0;
+}
+.h_nav li {
+	display: inline-block;
+	margin: 0 20px;
+}
+.h_nav a {
+	display: inline-block;
+	height: 95px;
+	padding: 0 2px;
+	color: #FFF;
+	font: 24px/95px 'Candara';
+	text-transform: uppercase;
+	letter-spacing: -1px;
+	text-decoration: none;
+	position: relative;
+}
+.h_nav a:before {
+	content: "";
+	position: absolute;
+	top: 105%;
+	left: 50%;
+	width: 80%;
+	height: 5px;
+	margin-left: -40%;
+	background: #FFF;
+	-webkit-transition: top 0.6s ease;
+	   -moz-transition: top 0.6s ease;
+	    -ms-transition: top 0.6s ease;
+	     -o-transition: top 0.6s ease;
+	        transition: top 0.6s ease;
+}
+.h_nav a:hover:before {
+	top: 70%;
+}
+
+
+
 
 
 /* Middle ----------------------------------------------------------------------------- */
 .content {
 }
+.c_head {
+	text-align: center;
+	font: bold italic 48px/52px 'Candara';
+	color: #2d3c58;
+	margin-bottom: 78px;
+	position: relative;
+	text-transform: uppercase;
+}
+
+
 
 .c_top {
 	width: 100%;
 	min-width: 480px;
-	height: 769px;
-	background: url('i/bg-top.jpg') no-repeat;
+	min-height: 769px;
+	background: #353838 url('i/bg-top.jpg') center top no-repeat;
+	color: #FFF;
+}
+.c_top-head {
+	font: bold italic 66px/75px 'Candara';
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-top: 320px;
+}
+.c_top-txt {
+	font: 24px/25px 'Calibri';
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-top: 10px;
+	width: 75%;
+}
+
+
+.c_about {
+	width: 100%;
+	margin: 90px 0 60px;
+}
+.c_about-head:before {
+	content: "";
+	position: absolute;
+	bottom: -20px;
+	left: 50%;
+	width: 76px;
+	height: 6px;
+	margin-left: -38px;
+	background: #2D3C58;
+}
+.c_about-txt {
+	text-align: center;
+	color: #212121;
+	font: 24px/30px "RalewayRegular";
+	letter-spacing: 2px;
+	margin-bottom: 85px;
+}
+
+
+
+.c_invest {
+	width: 100%;
+	margin: 60px 0;
 }
 
 
