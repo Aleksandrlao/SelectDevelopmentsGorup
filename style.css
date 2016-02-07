@@ -45,17 +45,37 @@ body {
 	max-width: 2400px;
 	margin: 0 auto;
 }
+.inb {
+	position: relative;
+	overflow: hidden;
+	padding-top: 1px;
+	max-width: 1170px;
+	padding: 0 2%;
+	margin: auto;
+}
 
 
 /* Header ----------------------------------------------------------------------------- */
 .header {
-	height: 150px;
-	background: #FFE680;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	min-width: 480px;
+	height: 95px;
+	background: rgba(48,48,48,0.7);
 }
 
 
 /* Middle ----------------------------------------------------------------------------- */
 .content {
+}
+
+.c_top {
+	width: 100%;
+	min-width: 480px;
+	height: 769px;
+	background: url('i/bg-top.jpg') no-repeat;
 }
 
 
