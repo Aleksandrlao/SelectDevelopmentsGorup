@@ -1,0 +1,909 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"a",
+				"addClass"
+			],
+			[
+				"l",
+				"lowercase"
+			],
+			[
+				"backgr",
+				"background"
+			],
+			[
+				"di",
+				"div	div"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"su",
+				"supermelkaya"
+			],
+			[
+				"fu",
+				"fun	Function"
+			],
+			[
+				"li",
+				"live"
+			],
+			[
+				"con",
+				"console"
+			],
+			[
+				"co",
+				"console"
+			],
+			[
+				"e",
+				"each"
+			],
+			[
+				"pre",
+				"preventDefault"
+			],
+			[
+				"pare",
+				"parent"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"h",
+				"href	Attr"
+			],
+			[
+				"border-",
+				"border-collapse"
+			],
+			[
+				"c",
+				"class	Attr"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"d",
+				"document"
+			],
+			[
+				"tr",
+				"trs	transition: ${1:prop} ${2:time};"
+			],
+			[
+				"b",
+				"bottom"
+			],
+			[
+				"tab",
+				"table-cell"
+			],
+			[
+				"ar",
+				"array"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"pr",
+				"print_r"
+			],
+			[
+				"ex",
+				"explode"
+			],
+			[
+				"jso",
+				"json_encode"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"in_",
+				"in_category"
+			],
+			[
+				"dis",
+				"display"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"j",
+				"jquery"
+			],
+			[
+				"list-style-",
+				"list-style-position"
+			],
+			[
+				"vi",
+				"visible"
+			],
+			[
+				"Buy",
+				"BuyEmail"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"rep",
+				"repeat"
+			],
+			[
+				"no-rep",
+				"no-repeat"
+			],
+			[
+				"table-",
+				"table-row"
+			],
+			[
+				"table-c",
+				"table-cell"
+			],
+			[
+				"tc",
+				"table-cell"
+			],
+			[
+				"op",
+				"opacity"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"f",
+				"font"
+			],
+			[
+				"ко",
+				"комментарии"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"repe",
+				"repeat-x"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"text",
+				"textarea	Tag"
+			],
+			[
+				"fo",
+				"foreach	foreach …"
+			],
+			[
+				"cur",
+				"cursor"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"art",
+				"article"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"margin",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"padin",
+				"padding"
+			],
+			[
+				"al",
+				"alt	Attr"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"er",
+				"error"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"va",
+				"val"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"mari",
+				"margin"
+			],
+			[
+				"MARGIN",
+				"margin-top"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"s",
+				"span	Tag"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"padi",
+				"padding"
+			],
+			[
+				"fnt",
+				"font-weight"
+			],
+			[
+				"min-",
+				"min-width"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"ba",
+				"background-position"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"padding",
+				"padding"
+			],
+			[
+				"blo",
+				"block"
+			],
+			[
+				"for",
+				"form	Tag"
+			],
+			[
+				"margi",
+				"margin"
+			],
+			[
+				"margin-",
+				"margin-right"
+			],
+			[
+				"le",
+				"left"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"t",
+				"type	Attr"
+			],
+			[
+				"ac",
+				"action	Attr"
+			],
+			[
+				"inli",
+				"inline-block"
+			],
+			[
+				"padd",
+				"padding"
+			],
+			[
+				"padn",
+				"padding-top"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"max-",
+				"max-height"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 311.0,
+		"last_filter": "Package Control: ",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inp",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 160.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/style 2.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/related-posts-thumbnails.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/sidebar 3.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/functions 4.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/main.js",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/single.php",
+		"/D/- КЛИЕНТЫ/Морковин/AltEnergiya/altenergiya/functions.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/style 9.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/style 8.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/footer 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/main 4.js",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/page 4.php",
+		"/D/JS/jQuery/jScrollPane/jquery.jscrollpane.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/single 3.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/index.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/sidebar 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/page-competitions.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/style 3.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/page 3.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/main 3.js",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/stil-style.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/archive 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/version.inc.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/config.inc.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/wp-config.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/header 4.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/style 7.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/header 3.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/sidebar.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/header 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/mootools.js",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/error_log",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/ht.access",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/wp-config 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/style 6.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/page-pressa-onas.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/page 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/page-action.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/functions 3.php",
+		"/D/- Freelance/Павел Жуков/STIL/m001 site backup/backup_site/zavodstil.ru/public_html/error_log",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/archive.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/404.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/style 5.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/single 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/page.php",
+		"/D/- Freelance/Павел Жуков/STIL/site/wp-config.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/functions 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/header.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/style 4.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/style.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/main 2.js",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/inc-service.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/functions.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/loop.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/footer.php",
+		"/D/- Freelance/Иван Кунпан/smartresp.html",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/index 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/comments.php",
+		"/D/- Freelance/Иван Кунпан/kunpan old2/single.php",
+		"/D/-=Сайты/loveflower.ru/new maket/verstka/index.html",
+		"/D/-=Сайты/loveflower.ru/new maket/verstka/style.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/content-single-product.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/simple.php",
+		"/D/- Freelance/Павел Жуков/Боры/site new/wp-content/themes/bori/header.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/search.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/searchform.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/price.php",
+		"/D/- Freelance/Иван Кунпан/kunpan/search.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/style 2.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/header.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/index.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/functions.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/style.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/page.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/main.js",
+		"/D/- Freelance/Павел Жуков/STIL/verstka/page.html",
+		"/D/- Freelance/Павел Жуков/STIL/stil/functions.php",
+		"/D/- Freelance/Павел Жуков/STIL/stil/style.css",
+		"/D/- Freelance/Павел Жуков/STIL/stil/header.php",
+		"/D/- Freelance/Павел Жуков/STIL/stil/index.php",
+		"/D/- Freelance/Павел Жуков/STIL/stil/page.php",
+		"/D/- Freelance/Павел Жуков/STIL/stil/footer.php",
+		"/D/- Freelance/Павел Жуков/STIL/verstka/js/main.js",
+		"/D/- Freelance/Павел Жуков/STIL/verstka/style.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/index 3.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/page-ip.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/nextgen_basic_slideshow_settings_gallery_dimensions.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/index 4.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/wp-config 3.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/wp-config 4.php",
+		"/D/Design/webfonts/Calibri/fonts.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/ms.js",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/inc-bottom.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/content-product_cat.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/archive-product.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/content-product.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/loop-start.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/result-count.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/orderby.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/simple 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/content-single-product 2.php",
+		"/D/- Freelance/Павел Жуков/Боры/site new/wp-content/themes/bori/functions.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-1/woocommerce.php",
+		"/D/- Freelance/Павел Жуков/VIPClinic/site new 2/wp-content/themes/clinic/functions.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/header 5.php",
+		"/D/- Freelance/Павел Жуков/Владмива/vladmiva/sidebar.php",
+		"/D/- Freelance/Павел Жуков/Владмива/vladmiva/index.php",
+		"/D/- Freelance/Павел Жуков/Владмива/vladmiva/functions.php",
+		"/D/- Freelance/Павел Жуков/Владмива/vladmiva/style.css",
+		"/D/- Freelance/Павел Жуков/Владмива/vladmiva/header.php",
+		"/D/- Freelance/Павел Жуков/Владмива/vladmiva/footer.php",
+		"/D/- Freelance/Павел Жуков/Владмива/vladmiva/searchform.php",
+		"/D/- Freelance/Павел Жуков/Владмива/vladmiva/loop.php",
+		"/D/- Freelance/Павел Жуков/VIPClinic/site new 2/wp-content/themes/clinic/woocommerce/archive-product.php",
+		"/D/- Freelance/Павел Жуков/Владмива/verstka/style.css",
+		"/D/- Freelance/Павел Жуков/Владмива/verstka/index.html",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/header 4.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/footer 4.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/header 3.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/sidebar 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/meteor-slides.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/sidebar.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/footer 3.php",
+		"/D/Design/webfonts/Candara/Candara web/fonts.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/ms.js",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/footer 2.php",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/style 4.css",
+		"/C/Users/Alao/AppData/Local/Temp/fz3temp-2/style 6.css"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$width",
+			"width: ",
+			"kunpanis7",
+			".about_box-txt",
+			"1260",
+			"h3",
+			"c_woo-head",
+			"prod_list-item",
+			"0",
+			"w_rounds",
+			"prev.png",
+			"leftbar-wrap",
+			"a ",
+			"h3",
+			"h2",
+			".an_bot_panel",
+			"c_woo-",
+			"#firs",
+			"branding",
+			"layout",
+			";		",
+			"sidebar",
+			"c_page-item",
+			"c_page h1",
+			"welc_head",
+			"overImg h2",
+			"tnav",
+			"h1",
+			"section-title",
+			"s_info",
+			"18px",
+			"h1",
+			";\n",
+			"c_wpage",
+			"24px",
+			"sideb",
+			"c_buket-list",
+			"main_cont",
+			"c_gpred-item",
+			"c_gpredl-item",
+			"url(balls",
+			"Reset",
+			"woof_reset_search_form",
+			"button",
+			"click",
+			"replace",
+			"wrapAll",
+			"wrapper",
+			"attr",
+			"ind_info-txt",
+			"standardPhotosgallery",
+			"#standardPhotosgallery",
+			"ind_info",
+			"port_head",
+			"{\n",
+			"soved",
+			"c_cat-deal__btn",
+			"tabs__caption",
+			"c_cat-code__info",
+			"addEventListener",
+			"fxCoverflow",
+			"modify",
+			"intro-effect-grid",
+			"bg-img",
+			"woof_init_beauty_scroll",
+			"?>\n",
+			"z-index",
+			".ru",
+			".com",
+			"z-index",
+			"item_photo-big",
+			"//$('.",
+			"().'\" ",
+			"тпра",
+			"отпра",
+			"order",
+			"add_to_cart_fragments",
+			"woocommerce_add_to_cart_fragments",
+			"important",
+			"nav",
+			"map",
+			"footer",
+			"footer33",
+			"src=\"",
+			"clients",
+			"subc",
+			"c_subc",
+			"c_sub",
+			"%;\n",
+			"subscr",
+			"%;\n",
+			"require",
+			"item",
+			"bg-push",
+			"page",
+			"replace_link",
+			"\nfunction replaсe_link($content) {",
+			"red",
+			"argu",
+			"vanill",
+			"caram",
+			"tabac c",
+			" cafe",
+			"\"MyriadProCondRegular\"",
+			"ananas",
+			"menthe",
+			"mentne",
+			"frais",
+			"cassis",
+			"casis",
+			"side_se",
+			"side",
+			"slbtn",
+			"c_re",
+			"j",
+			"jc",
+			"jcar",
+			"jcaro",
+			".cl",
+			"mslide",
+			"item",
+			"min-w",
+			"src=\"site",
+			"tppabs",
+			"wpcf7",
+			"tppabs=",
+			"box",
+			"ulightbox"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"url(i/balls",
+			"src=\"<?php bloginfo('template_directory'); ?>/",
+			"src=\"<?php bloginfo('template_directory'); ?>/site",
+			"wpmob_",
+			"<?php bloginfo('template_directory'); ?>/img/",
+			"src=\"<?php bloginfo('template_directory'); ?>/img/",
+			"min-width",
+			"",
+			"fonts",
+			"ClearSansThin",
+			".top_menu",
+			".bounceout",
+			"src=\"<?php bloginfo('template_directory'); ?>/i",
+			"li",
+			"contentBox",
+			"quest=\"побег из психушки\"",
+			" data-cost=\"3000\"",
+			" data-cost=\"2400\"",
+			"tt_dates-time_block",
+			"tt_dates-day",
+			"tt_",
+			"",
+			";\n",
+			"\n}",
+			"\n}\n",
+			"}\n",
+			"{	\n",
+			"	",
+			"",
+			"\"MyriadProRegular\"",
+			"c_slide-navi",
+			"#3c8314",
+			"#71bf44",
+			"&",
+			"<",
+			"\"",
+			">",
+			"\"<?php bloginfo('template_directory'); ?>/i/",
+			"c_lider-thumbs",
+			"li.menu-item-depth-0",
+			"menu-item-depth-0",
+			"sub-menu",
+			"img/",
+			"i",
+			"",
+			"take",
+			"src=\"<?php bloginfo('template_directory'); ?>/js/",
+			"comand",
+			"img",
+			"js",
+			"menu",
+			"1000px",
+			"'img/",
+			".wpcf7-form",
+			"#form",
+			"cont_lpubl-post",
+			".carousel",
+			"Roboto Condensed",
+			"",
+			"../img",
+			"Поставьте 1 если занят или 0 если свободен",
+			"\"type\" => \"text\"",
+			"alogin.php"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
