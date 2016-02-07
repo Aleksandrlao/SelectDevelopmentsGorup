@@ -27,6 +27,15 @@
     font-style: normal;
     font-weight: normal;
 }
+@font-face {
+	font-family: 'ArcherBoldPro';
+	src: url('fonts/ArcherBoldPro/ArcherBoldPro.eot');
+	src: local('☺'), url('fonts/ArcherBoldPro/ArcherBoldPro.woff') format('woff'), 
+	url('fonts/ArcherBoldPro/ArcherBoldPro.ttf') format('truetype'), 
+	url('fonts/ArcherBoldPro/ArcherBoldPro.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
 
 
@@ -165,7 +174,7 @@ body {
 }
 
 
-
+/* Top ----------------------------------------------------------------------------- */
 .c_top {
 	width: 100%;
 	min-width: 480px;
@@ -188,6 +197,8 @@ body {
 }
 
 
+
+/* About ----------------------------------------------------------------------------- */
 .c_about {
 	width: 100%;
 	margin: 90px 0 60px;
@@ -211,17 +222,135 @@ body {
 }
 
 
-
+/* Invest ----------------------------------------------------------------------------- */
 .c_invest {
 	width: 100%;
 	margin: 60px 0;
 }
+.c_invest-txt {
+	text-align: center;
+	color: #212121;
+	font: 21px/26px "RalewayRegular";
+	letter-spacing: 0.5px;
+	margin-bottom: 85px;
+}
+.c_invest-tabs {
+	width: 100%;
+	overflow: hidden;
+}
+.c_invest-tabs__caption {
+	width: 100%;
+	text-align: center;
+	font-size: 0;
+}
+.c_invest-tabs__caption li {
+	display: inline-block;
+	width: 40%;
+	vertical-align: top;
+	font: 17px/24px "RalewayRegular";
+	color: #b8b8b8;
+	padding: 110px 5% 70px;
+	background: #ebebeb;
+	cursor: pointer;
+}
+.c_invest-tabs__caption li.active {
+	background: #FFF;
+	cursor: default;
+}
+.c_invest-tabs__head {
+	font: 18px/24px 'ArcherBoldPro';
+	margin-bottom: 20px;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	color: #343434;
+}
 
+.c_invest-tabs__content {
+	display: none;
+}
+.c_invest-tabs__content.active {
+	display: block;
+}
+
+.c_invest-infograf {
+ 	width: 100%;
+ 	height: 1910px;
+ 	background: url('i/bg-ingograf.jpg') center top no-repeat;
+ }
+
+
+
+/* Areas ------------------------------------------------------------------------------ */
+.c_areas {
+ 	margin: 60px 0;
+}
+
+
+.c_area-more {
+	display: block;
+	width: 121px;
+	height: 121px;
+	background: url('i/btn-all-post.png') no-repeat;
+	margin: 20px auto;
+	text-indent: -2989px;
+}
 
 
 
 /* Footer ----------------------------------------------------------------------------- */
 .footer {
-	height: 100px;
-	background: #BFF08E;
+	min-height: 470px;
+	background: #222;
+	border-top: 70px solid #1a1a1a;
+	border-bottom: 20px solid #1a1a1a;
+	color: #929292;
+	font: 14px/30px 'Myriad Pro', 'Calibri';
+}
+.footer a {
+	color: #FFF;
+	text-decoration: none;
+}
+.footer a:hover {
+	text-decoration: underline;
+}
+.f_top {
+	padding: 34px 0 70px;
+}
+.f_left {
+	float: left;
+	margin: 0 10px;
+	width: 270px;
+}
+.f_left-txt {
+	text-transform: uppercase;
+	color: #FFF;
+	font: 14px/24px 'Calibri';
+}
+.f_logo {
+	overflow: hidden;
+	margin-bottom: 12px;
+}
+.f_logo .h_logo {
+	margin: 0;
+}
+.f_right {
+	float: right;
+	margin: 0 10px;
+	width: 270px;
+}
+
+.f_head {
+	margin: 24px 0 44px;
+	font: 24px/30px 'Calibri';
+	color: #FFF;
+	letter-spacing: 1px;
+}
+
+.f_copy {
+	width: 100%;
+	height: 72px;
+	background: #1c1c1c;
+	color: #595959;
+	font: 16px/72px 'Calibri';
+	text-align: center;
 }
