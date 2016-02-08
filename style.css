@@ -36,6 +36,15 @@
 	font-weight: normal;
 	font-style: normal;
 }
+@font-face {
+	font-family: 'QuicksandRegular';
+	src: url('fonts/QuicksandRegular/QuicksandRegular.eot');
+	src: local('O'), url('fonts/QuicksandRegular/QuicksandRegular.woff') format('woff'), 
+	url('fonts/QuicksandRegular/QuicksandRegular.ttf') format('truetype'), 
+	url('fonts/QuicksandRegular/QuicksandRegular.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
 
 
 
@@ -284,6 +293,87 @@ body {
 .c_areas {
  	margin: 60px 0;
 }
+.c_areas ul {
+	width: 100%;
+	overflow: hidden;
+	position: relative;
+}
+.c_areas ul:before {
+	content: "";
+	position: absolute;
+	top: 30px;
+	left: 50%;
+	width: 1px;
+	height: 2000px;
+	background: #ebebeb;
+}
+
+.c_areas li {
+	overflow: hidden;
+	margin-bottom: 30px;
+	position: relative;
+}
+.c_areas li:before {
+	content: "";
+	position: absolute;
+	top: 25px;
+	left: 50%;
+	width: 17px;
+	height: 17px;
+	margin-left: -8px;
+	background: #ebebeb;
+	-webkit-border-radius: 100%;
+	        border-radius: 100%;
+}
+.c_areas-thumbs {
+	float: left;
+	width: 47%;
+	height: auto;
+	overflow: hidden;
+	text-align: right;
+}
+.c_areas li:nth-child(even) .c_areas-thumbs {
+	float: right;
+	text-align: left;
+}
+.c_areas-thumbs img {
+	display: inline-block;
+}
+.c_areas-info {
+	float: right;
+	width: 47%;
+	height: auto;
+	overflow: hidden;
+}
+.c_areas li:nth-child(even) .c_areas-info {
+	float: left;
+}
+.c_areas-title {
+	font: bold italic 52px/60px 'Candara';
+	color: #2d3c58;
+	margin-bottom: 18px;
+	position: relative;
+	padding: 0 5px;
+}
+.c_areas li:nth-child(even) .c_areas-title {
+	text-align: right;
+}
+.c_areas-txt {
+	width: 90%;
+	-webkit-column-count: 2;
+    -moz-column-count: 2;
+    column-count: 2;
+    -webkit-column-gap: 35px;
+    -moz-column-gap: 35px;
+    column-gap: 35px;
+	font: 17px/23px 'QuicksandRegular';
+}
+.c_areas li:nth-child(even) .c_areas-txt {
+	float: right;
+}
+.c_areas-txt p {
+	margin-bottom: 20px;
+}
 
 
 .c_area-more {
@@ -291,7 +381,7 @@ body {
 	width: 121px;
 	height: 121px;
 	background: url('i/btn-all-post.png') no-repeat;
-	margin: 20px auto;
+	margin: 0 auto 20px;
 	text-indent: -2989px;
 }
 
