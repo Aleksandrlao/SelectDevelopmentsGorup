@@ -2,17 +2,20 @@
 <html>
 <head>
 	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1">
 	<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 	<title>SDG</title>
+	<link href="css/jquery.bxslider.css" rel="stylesheet" />
 	<link href="style.css" rel="stylesheet">
 </head>
 <body>
 <div class="wrapper">
 
-	<header class="header">
+	<header class="header default">
 		<div class="inb">
 			<a href="#" class="h_logo">SDG</a>
 			<nav class="h_nav">
+				<div class="h_nav-btn"></div>
 				<ul>
 					<li class="h_navi"><a href="#">About us</a></li>
 					<li class="h_navi"><a href="#">Investment</a></li>
@@ -38,7 +41,38 @@
 			<div class="inb">
 				<div class="c_head c_about-head">About Us</div>
 				<div class="c_about-txt"><p>London's first truly exclusive bespoke design and build company<br> that concentrates on the development and sourcing of prime central London real estate.</p></div>
-				<div class="c_about-slider"></div>
+			</div>
+			<div class="c_about-sliderbox">
+				<ul class="c_about-slider">
+					<li><div class="c_about-slider__info">
+							<div class="c_about-slider__head">Our Proposition</div>
+							<div class="c_about-slider__txt">Select Developments is an experienced property, development and acquisition company that is fast building a reputation for delivering high-end renovations in prime central London locations.</div>
+							<a href="#" class="c_about-slider__more">Read more<i></i></a>
+						</div>
+						<div class="c_about-slider__thumbs"><img src="i/slide1.jpg" alt="slide"></div>
+					</li>
+					<li><div class="c_about-slider__info">
+							<div class="c_about-slider__head">Our Approach</div>
+							<div class="c_about-slider__txt">At Select Developments, professionalism, quality, design and attention to detail is at the heart of everything we do, so that our properties surpass market expectations in terms of price and speed of sale.</div>
+							<a href="#" class="c_about-slider__more">Read more<i></i></a>
+						</div>
+						<div class="c_about-slider__thumbs"><img src="i/slide2.jpg" alt="slide"></div>
+					</li>
+					<li><div class="c_about-slider__info">
+							<div class="c_about-slider__head">Our Experience &amp; Track Record</div>
+							<div class="c_about-slider__txt">Since our inception, our focus has been creating premium properties that complete on time and on budget. We look to add value at every possibility so that our developments always outshine others in the same market.</div>
+							<a href="#" class="c_about-slider__more">Read more<i></i></a>
+						</div>
+						<div class="c_about-slider__thumbs"><img src="i/slide3.jpg" alt="slide"></div>
+					</li>
+					<li><div class="c_about-slider__info">
+							<div class="c_about-slider__head">Our Process</div>
+							<div class="c_about-slider__txt">This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit consequat ipsum</div>
+							<a href="#" class="c_about-slider__more">Read more<i></i></a>
+						</div>
+						<div class="c_about-slider__thumbs"><img src="i/slide4.jpg" alt="slide"></div>
+					</li>
+				</ul>
 			</div>
 		</div>
 
@@ -141,6 +175,7 @@ that is fast building a reputation for delivering high-end properties in and aro
 
 <script src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
 <script src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script src="js/jquery.bxslider.min.js"></script>
 <script src="js/main.js"></script>
 
 </body>
